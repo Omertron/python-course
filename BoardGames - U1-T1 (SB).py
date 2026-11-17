@@ -1,6 +1,8 @@
+# This file has been updated as part of the refactor test
 # Unit 1 - Coding with Python - Lesson 1
 # Stuart Boston
 # 9th November 2026
+# Updated 17th November 2026
 # ----------------------------------------
 # two or more data types (e.g. string, integer, float, boolean)
 # a data structure (e.g. lists, tuples, sets and dictionaries)
@@ -12,7 +14,8 @@ board_games = [ # list
     {"title": "Brass: Birmingham", "players": 4, "time": 2.5}, # dictionary
     {"title": "Concordia", "players": 5, "time": 1.5}, # dictionary
     {"title": "Arcs", "players": 4, "time": 4.0}, # dictionary
-    {"title": "Hive", "players": 2, "time": 0.5} # dictionary
+    {"title": "Hive", "playeArs": 2, "time": 0.5}, # dictionary
+    {"title": "Castles of Mad King Ludwig", "playeArs": 4, "time": 2.0} # dictionary
 ]
 
 # Loop around the list
