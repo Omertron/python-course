@@ -1,5 +1,8 @@
-This is a text file for AC2.3
+This is a text file for AC2.3 - Lots of changes this time
 
 This is testing 2.3 Edit, Undo and Delete commits
 
-Added some information for commit #2
+- Added some information for commit #2
+
+We're finally getting to the good stuff in this documentation file
+Going to change some stuff as well as adding.
